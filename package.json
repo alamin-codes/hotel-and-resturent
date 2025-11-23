@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://alamin-01773611436.github.io/js-code-39/",
+  "homepage": "https://alamin-codes.github.io/hotel-and-resturent",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
